@@ -17,7 +17,7 @@
      </classes>
     </test>  
              
-  <!--   <test name="TrackX.truelocate EditFlow">
+    <test name="TrackX.truelocate EditFlow">
     <classes> 
                     
      <class name="com.trackx.truelocate.flow.IMRegionEditFlow"/>   
