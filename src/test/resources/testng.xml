@@ -5,7 +5,7 @@
     <classes>
     
      <class name="com.trackx.truelocate.flow.IMRegionCreateFlow"/>
-      <class name="com.trackx.truelocate.flow.FacilityCreateFlow"/>  
+     <!--  <class name="com.trackx.truelocate.flow.FacilityCreateFlow"/>  
      <class name="com.trackx.truelocate.flow.IMLocationListCreateFlow"/>   
      <class name="com.trackx.truelocate.flow.IMItemClassCreateFlow"/> 
      <class name="com.trackx.truelocate.flow.IMItemTypeCreateFlow"/>  
@@ -13,10 +13,10 @@
      <class name="com.trackx.truelocate.flow.IMItemCreateFlow"/> 
      <class name="com.trackx.truelocate.flow.IMProvisionCreateFlow"/> 
      <class name="com.trackx.truelocate.flow.IMUserCreateFlow"/>  
-              
+               -->
      </classes>
     </test>  
-             
+ <!--             
     <test name="TrackX.truelocate EditFlow">
     <classes> 
                     
@@ -78,5 +78,5 @@
         
       
     </classes>
-    </test>    
+    </test>     -->
 </suite>
